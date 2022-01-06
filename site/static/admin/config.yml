@@ -3,6 +3,8 @@ backend:
   
 publish_mode: editorial_workflow
 
+delete: false
+
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
